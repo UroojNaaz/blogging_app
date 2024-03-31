@@ -5,7 +5,7 @@ import { getStorage, ref, uploadBytesResumable, getDownloadURL } from "https://w
 import { getDatabase } from "https://www.gstatic.com/firebasejs/10.2.0/firebase-database.js";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCpRVjnIfhIYHm_ReWNphXKHhQPgOqPzFo",
+  apiKey: "AIzaSyDkuJ9qUv-j_xXJfbFL2bgaFEKK85BcJEw",
   authDomain: "personal-blogging-app-12e52.firebaseapp.com",
   databaseURL:"https://personal-blogging-app-12e52-default-rtdb.firebaseio.com",
   projectId: "personal-blogging-app-12e52",
